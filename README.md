@@ -57,7 +57,7 @@ boilerplate-html-css-js/
 │   ├── cookies.js       # Cookies JavaScript file
 │   ├── swiper.js        # Carousel JavaScript file
 │   ├── dom-helper.js    # Dom Helper JavaScript file
-│   └── index.js       # Main JavaScript file
+│   └── index.js         # Main JavaScript file
 ├── assets/              # Directory for images
 │
 └── README.md            # Project documentation (this file)
